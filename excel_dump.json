@@ -1,0 +1,156 @@
+{
+  "Sheet1": [
+    [
+      "Travel Itinerary",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Date",
+      "Day of Week",
+      "City",
+      "Key Itinerary",
+      "Hotel",
+      "Transportation"
+    ],
+    [
+      "2026-07-18 00:00:00",
+      "Saturday",
+      "Beijing/Paris",
+      "CA933PEK-CDG\nCheck in at the hotel",
+      "Ibis Paris Avenue d'Italie 13eme\naddress: 15 Bis Av. d'Italie, Paris, 75013,France\ntel: +33-1-53796000",
+      "Public transportation RER/Walking"
+    ],
+    [
+      "2026-07-19 00:00:00",
+      "Sunday",
+      "Paris",
+      "9:30Sainte-Chapelle-Notre-Dame de Paris-Pantheon \n14:30-Museum of Orsay-Les Invalides-Eiffel Tower",
+      null,
+      null
+    ],
+    [
+      "2026-07-20 00:00:00",
+      "Monday",
+      "Paris",
+      "9:30 Museum of Louvre-\n13:30 Hotel of Marine-\n15:00 Museum of Orange-\nShopping",
+      null,
+      null
+    ],
+    [
+      "2026-07-21 00:00:00",
+      "Tuesday",
+      "Paris",
+      "10:00 Palace and Park of Versailles-\nMontmartre-\nArch of Triumph in the evening-\nAvenue des Champs-Élysées\n",
+      null,
+      null
+    ],
+    [
+      "2026-07-22 00:00:00",
+      "Wednesday",
+      "Paris",
+      "Disneyland Paris",
+      null,
+      null
+    ],
+    [
+      "2026-07-23 00:00:00",
+      "Thursday",
+      "Paris-Zurich",
+      "7:20 LYRIA9203-Basel-Zurich\ncheck in at the hotel\n14:00 Mountain of Rigi",
+      "3-Bed Apartment Central Zurich\naddress: Langstrasse 652,8004 Zurich\ntel: +41 78 240 48 91",
+      "SBB with swiss pass /Walking"
+    ],
+    [
+      "2026-07-24 00:00:00",
+      "Friday",
+      "Zurich",
+      "9:00 Mountain of First-14:00 Jungfrau",
+      null,
+      null
+    ],
+    [
+      "2026-07-25 00:00:00",
+      "Saturday",
+      "Venice",
+      "EC301 Zurich-Chiasso-Venice\ncheck in at the hotel\nMainland travel -Piazza San Marco",
+      "Casa di serena\naddress: 10 Via Nervesa, 30171 Mestre,Italie\ntel: +39 389 259 1943",
+      "Train/Walking/Water Bus"
+    ],
+    [
+      "2026-07-26 00:00:00",
+      "Sunday",
+      "Venice/Florence",
+      "Travel by Gondola and shopping in the morning-\n13:38-15:39 Frecciarossa9421 Venici-Florence\n17:00 Piazzale Michelangelo",
+      "Duccio Flat[Santa Maria Novella]\naddress: 122 Via Palazzuolo,50123, Florence, Italie\ntel: +39 366 155 5296",
+      "Public transportation/Walking"
+    ],
+    [
+      "2026-07-27 00:00:00",
+      "Monday",
+      "Florence",
+      "8:30 Old Bridge-10:30Cathedral of Saint Mary of the Flower\n13:53-15:11 Regionale 18373 Florence-Pisa\nvisit Pisa\n18:46-20:08 Regionale 18403 Pisa-Florence",
+      null,
+      null
+    ],
+    [
+      "2026-07-28 00:00:00",
+      "Tuesday",
+      "Florence/Rome",
+      "8:15 The Uffizi Gallery-\n9:45 Gallery of the Academy of Florence\n11:14-15:00 Frecciarossa89123 Florence-Rome\ncheck in at the hotel\n16:00 The Roman Colosseum",
+      "Aura San Lorenzo\naddress: Via dei Liguri,15,00185 Rome,Italie\ntel: +39 375 134 2412",
+      "Public transportation/Walking"
+    ],
+    [
+      "2026-07-29 00:00:00",
+      "Wednesday",
+      "Rome/Vatican",
+      "8:30 St. Peter's Basilica Church-\n12:30 The Vatican Museums-\n16:30 Trevi Fountain and Pantheon of Rome",
+      null,
+      null
+    ],
+    [
+      "2026-07-30 00:00:00",
+      "Thursday",
+      "Rome/Nice",
+      "13:15-14:30 AZ344 FCO-NCE\ncheck in at the hotel\n16:00 Angel Bay in Nice",
+      "(Airbnb)Refurbished apartment\naddress:136 Boulevard Gambetta 3eme etage, Nice, France\ntel: +33 6 98 42 30 00",
+      "Train/Uber/Walking"
+    ],
+    [
+      "2026-07-31 00:00:00",
+      "Friday",
+      "Nice",
+      "9:00 Antibes city walk -\n16:00 Nice city walk",
+      null,
+      null
+    ],
+    [
+      "2026-08-01 00:00:00",
+      "Saturday",
+      "Nice/Montpellier",
+      "Nice city walk and shopping\n13:25-18:28 ZOU!17482&876562 Nice-Montpellier\ncheck in at the hotel\ncity walk in Montpellier",
+      "Citadines Antigone Montpellieer\naddress:588 Bd d'Antigone, Montpellier,34000,France\ntel:0033-499523750",
+      "Tram/Walking"
+    ],
+    [
+      "2026-08-02 00:00:00",
+      "Sunday",
+      "Montpellier/Paris/Shanghai",
+      "Rest and shopping in Montpellier\n18:40 AF7467&AF116 MPL-CDG",
+      "On the flight",
+      "Uber to the airport"
+    ],
+    [
+      "18 July–2 August: a 16-day, 15-night trip comprising five nights in Paris, two nights in Zurich, one night in Venice, two nights in Florence, two nights in Rome, two nights in Nice and one night in Montpellier. Transport, accommodation and bookable attraction tickets have all been booked in advance.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ]
+}
