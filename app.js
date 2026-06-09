@@ -19,7 +19,7 @@ const tripData = {
       title: '巴黎 → 苏黎世',
       detail: '火车 LYRIA9203，从巴塞尔经苏黎世。',
       tag: '火车',
-      image: 'https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?auto=format&fit=crop&w=900&q=80',
+      image: 'https://images.unsplash.com/photo-1514970746-d4a465d514d0?auto=format&fit=crop&w=900&q=80',
       imageKey: 'transport-zrh',
     },
     {
@@ -27,7 +27,7 @@ const tripData = {
       title: '苏黎世 → 威尼斯',
       detail: 'EC301 直达威尼斯，经基亚索。',
       tag: '火车',
-      image: 'https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=900&q=80',
+      image: 'https://images.unsplash.com/photo-1586752488885-6ce47fdfd874?auto=format&fit=crop&w=900&q=80',
       imageKey: 'transport-venice',
     },
     {
@@ -35,7 +35,7 @@ const tripData = {
       title: '威尼斯 → 佛罗伦萨',
       detail: 'Frecciarossa 9421，13:38 发车，15:39 抵达。',
       tag: '高速列车',
-      image: 'https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=900&q=80',
+      image: 'https://images.unsplash.com/photo-1750268987200-af745f8aaefb?auto=format&fit=crop&w=900&q=80',
       imageKey: 'transport-firenze',
     },
     {
@@ -43,7 +43,7 @@ const tripData = {
       title: '佛罗伦萨 → 比萨 → 佛罗伦萨',
       detail: 'Regionale 18373/18403 往返比萨，安排比萨斜塔游览。',
       tag: '城际火车',
-      image: 'https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=900&q=80',
+      image: 'https://images.unsplash.com/photo-1767725161977-adbc12b0984c?auto=format&fit=crop&w=900&q=80',
       imageKey: 'transport-pisa',
     },
     {
@@ -51,7 +51,7 @@ const tripData = {
       title: '佛罗伦萨 → 罗马',
       detail: 'Frecciarossa 89123，11:14 发车，15:00 抵达罗马。',
       tag: '高速列车',
-      image: 'https://images.unsplash.com/photo-1491553895911-0055eca6402d?auto=format&fit=crop&w=900&q=80',
+      image: 'https://images.unsplash.com/photo-1708753662011-7db4eed9d054?auto=format&fit=crop&w=900&q=80',
       imageKey: 'transport-rome',
     },
     {
@@ -59,7 +59,7 @@ const tripData = {
       title: '罗马 → 尼斯',
       detail: '航班 AZ344 FCO-NCE，预计 14:30 抵达。',
       tag: '国际航班',
-      image: 'https://images.unsplash.com/photo-1494848398113-3e90e0f5c38c?auto=format&fit=crop&w=900&q=80',
+      image: 'https://images.unsplash.com/photo-1559268950-2d7ceb2efa3a?auto=format&fit=crop&w=900&q=80',
       imageKey: 'transport-nce',
     },
     {
@@ -75,7 +75,7 @@ const tripData = {
       title: '蒙彼利埃 → 巴黎 → 上海',
       detail: '18:40 AF7467 + AF116 MPL-CDG，转机回上海。',
       tag: '回程',
-      image: 'https://images.unsplash.com/photo-1491553895911-0055eca6402d?auto=format&fit=crop&w=900&q=80',
+      image: 'https://images.unsplash.com/photo-1606768666853-403c90a981ad?auto=format&fit=crop&w=900&q=80',
       imageKey: 'transport-home',
     },
   ],
