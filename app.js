@@ -19,7 +19,7 @@ const tripData = {
       title: '巴黎 → 苏黎世',
       detail: '火车 LYRIA9203，从巴塞尔经苏黎世。',
       tag: '火车',
-      image: 'https://images.unsplash.com/photo-1514970746-d4a465d514d0?auto=format&fit=crop&w=900&q=80',
+      image: 'https://images.unsplash.com/photo-1673086636059-0f4abc8b853b?auto=format&fit=crop&w=900&q=80',
       imageKey: 'transport-zrh',
     },
     {
